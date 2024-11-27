@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Practical Realtime Kubernetes Projects + Learning
 
 𝐀 𝐫𝐞𝐩𝐨 𝐭𝐨 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐏𝐫𝐚𝐜𝐭𝐢𝐬𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐠𝐫𝐨𝐮𝐧𝐝 𝐮𝐩 𝐛𝐲 𝐝𝐨𝐢𝐧𝐠 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐚𝐥 𝐑𝐞𝐚𝐥𝐭𝐢𝐦𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐭𝐞𝐚𝐜𝐡 𝐲𝐨𝐮 𝐡𝐨𝐰 𝐭𝐨 𝐮𝐬𝐞 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐭𝐨 𝐝𝐞𝐩𝐥𝐨𝐲, 𝐦𝐚𝐧𝐚𝐠𝐞, 𝐚𝐧𝐝 𝐬𝐜𝐚𝐥𝐞 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫𝐢𝐳𝐞𝐝 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
@@ -211,3 +212,6 @@ Certainly! Here's a list of some popular tools for managing Kubernetes Infrastru
 ***If you are planning to use this repo for learning, please hit the star. Thanks!***
 
 ### ❤ by [H A R S H H A A](https://github.com/NotHarshhaa) - Owner/Creator
+=======
+# testrepo
+>>>>>>> 940d2939e72181585d01bee188e6e57cc49fba20
